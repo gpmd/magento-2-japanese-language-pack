@@ -12610,30 +12610,28 @@ Update to your %store_name shipment,%store_name 出荷データへの更新,them
 Account Dashboard,アカウントダッシュボード,theme,frontend/Magento/luma
 Address Book,アドレス帳,theme,frontend/Magento/luma
 Account Information,アカウント情報,theme,frontend/Magento/luma
-contact us,お問い合わせ,theme,frontend/Gear4/default
-to the top,トップに戻る,theme,frontend/Gear4/default
-you have added to cart,カートに追加されました,theme,frontend/Gear4/default
-to cart,が追加されました,theme,frontend/Gear4/default
-There is 1 item in your cart,カートにアイテムが１点あります,theme,frontend/Gear4/default
-cart subtotal,カート合計,theme,frontend/Gear4/default
-view cart,カートを見る,theme,frontend/Gear4/default
-continue,続ける,theme,frontend/Gear4/default
-checkout securely,セキュアチェックアウト,theme,frontend/Gear4/default
-address search,住所検索,theme,frontend/Gear4/default
-start with post/zip code or street,郵便番号を入力,theme,frontend/Gear4/default
-free,無料,theme,frontend/Gear4/default
-free shipping,送料無料,theme,frontend/Gear4/default
-credit card,クレジットカード,theme,frontend/Gear4/default
-forgot your password,パスワードを忘れた方,theme,frontend/Gear4/default
-Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored,このフィールド最低8文字以上必要です。先頭と末尾のスペースはカウントされません。,theme,frontend/Gear4/default
-my credit cards,登録クレジットカード,theme,frontend/Gear4/default
-you have no credit cards,クレジットカードが登録されていません,theme,frontend/Gear4/default
-colour (Manufacturer),カラー,theme,frontend/Gear4/default
-black,ブラック,theme,frontend/Gear4/default
-gold coloured,ゴールド,theme,frontend/Gear4/default
-red,レッド,theme,frontend/Gear4/default
-rose gold coloured,ローズゴールド,theme,frontend/Gear4/default
-silver coloured,シルバー,theme,frontend/Gear4/default
-blue,ブルー,theme,frontend/Gear4/default
-orchid grey,オーキッドグレー,theme,frontend/Gear4/default
-brown,ブラウン,theme,frontend/Gear4/default
+"English","Japanese",theme,frontend/Gear4/default
+"Contact Us","お問い合わせお問い合わせ",theme,frontend/Gear4/default
+"To The Top","トップに戻るトップに戻る",theme,frontend/Gear4/default
+"Cart Subtotal","カート合計カート合計",theme,frontend/Gear4/default
+"View cart","カートを見るカートを見る",theme,frontend/Gear4/default
+"Continue","続ける続ける",theme,frontend/Gear4/default
+"Checkout Securely","セキュアチェックアウト",theme,frontend/Gear4/default
+"Address Search","住所検索住所検索",theme,frontend/Gear4/default
+"Start with post/zip code or street","郵便番号を入力郵便番号を入力",theme,frontend/Gear4/default
+"Free","無料無料",theme,frontend/Gear4/default
+"Free Shipping","送料無料送料無料",theme,frontend/Gear4/default
+"Credit Card","クレジットカード",theme,frontend/Gear4/default
+"Forgot Your Password","パスワードを忘れた方パスワードを忘れた方",theme,frontend/Gear4/default
+"My Credit Cards","登録クレジットカード",theme,frontend/Gear4/default
+"You have no credit cards","クレジットカードが登録されていません",theme,frontend/Gear4/default
+"colour (Manufacturer)","カラー",theme,frontend/Gear4/default
+"black","ブラック",theme,frontend/Gear4/default
+"gold coloured","ゴールド",theme,frontend/Gear4/default
+"red","レッド",theme,frontend/Gear4/default
+"rose gold coloured","ローズゴールド",theme,frontend/Gear4/default
+"silver coloured","シルバー",theme,frontend/Gear4/default
+"blue","ブルー",theme,frontend/Gear4/default
+"orchid grey","オーキッドグレー",theme,frontend/Gear4/default
+"brown","ブラウン",theme,frontend/Gear4/default
+"Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored","このフィールド最低8文字以上必要です。先頭と末尾のスペースはカウントされません。",theme,frontend/Gear4/default
