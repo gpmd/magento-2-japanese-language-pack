@@ -3,7 +3,6 @@
   "description": "Japanese language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
   "type": "magento2-language",
-  "version": "1.0.0",
   "license": [
     "MIT"
   ],
