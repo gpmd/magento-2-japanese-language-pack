@@ -413,7 +413,7 @@ Account Information,アカウント情報,module,Magento_Backend
 User Name,ユーザー名,module,Magento_Backend
 First Name,名,module,Magento_Backend
 Last Name,姓,module,Magento_Backend
-Email,Eメール,module,Magento_Backend
+Email,メールアドレス,module,Magento_Backend
 User Email,ユーザーメールアドレス,module,Magento_Backend
 New Password,新規パスワード,module,Magento_Backend
 Password Confirmation,確認用パスワード,module,Magento_Backend
@@ -1440,7 +1440,7 @@ Stock Alert Subscriptions,在庫アラート購読,module,Magento_Catalog
 There are no customers for this alert.,このアラートに顧客は登録されていません。,module,Magento_Catalog
 First Name,名,module,Magento_Catalog
 Last Name,姓,module,Magento_Catalog
-Email,Eメール,module,Magento_Catalog
+Email,メールアドレス,module,Magento_Catalog
 Subscribe Date,登録日,module,Magento_Catalog
 Last Notified,最終通知日,module,Magento_Catalog
 Send Count,カウント送信,module,Magento_Catalog
@@ -1920,9 +1920,9 @@ We found other products you might like!,こちらの商品はいかがですか�
 More Choices:,おすすめ商品:,module,Magento_Catalog
 Check items to add to the cart or,チェックした商品をカートに入れるか,module,Magento_Catalog
 select all,全て選択,module,Magento_Catalog
-Items %1-%2 of %3,%3の商品%1-%2,module,Magento_Catalog
-%1 Item,%1 注文,module,Magento_Catalog
-%1 Items,%1 注文,module,Magento_Catalog
+Items %1-%2 of %3,Items %1-%2 of %3,module,Magento_Catalog
+%1 Item,%1 Item,module,Magento_Catalog
+%1 Items,%1 Items,module,Magento_Catalog
 Show,表示,module,Magento_Catalog
 per page,件,module,Magento_Catalog
 Sort By,並び順,module,Magento_Catalog
@@ -3273,11 +3273,11 @@ Thanks for contacting us with your comments and questions. We'll respond to you 
 "We can't process your request right now. Sorry, that's all we know.",現在要求にお答えできません。申し訳ありません。,module,Magento_Contact
 * Required Fields,* 必須項目,module,Magento_Contact
 Write Us,ご連絡ください,module,Magento_Contact
-Jot us a note and we’ll get back to you as quickly as possible.,お問い合わせいただければ、可能な限り早くお返事させていただきます。,module,Magento_Contact
-Name,名前,module,Magento_Contact
-Email,Eメール,module,Magento_Contact
-Phone Number,電話番号,module,Magento_Contact
-What’s on your mind?,お困りでしょうか？,module,Magento_Contact
+Jot us a note and we’ll get back to you as quickly as possible.,ご不明な点がございましたらお気軽にお問い合わせください。,module,Magento_Contact
+Name,お名前,module,Magento_Contact
+Email,メールアドレス,module,Magento_Contact
+Phone Number,お電話番号,module,Magento_Contact
+What’s on your mind?,ご相談内容,module,Magento_Contact
 Submit,送信,module,Magento_Contact
 Contact Form,コンタクトフォーム,module,Magento_Contact
 Name: %name,名前: %name,module,Magento_Contact
@@ -3696,7 +3696,7 @@ Delete Address,住所を削除,module,Magento_Customer
 You have no other address entries in your address book.,住所一覧に他の住所のエントリーがありません。,module,Magento_Customer
 * Required Fields,* 必須項目,module,Magento_Customer
 Company,会社名,module,Magento_Customer
-Phone Number,電話番号,module,Magento_Customer
+Phone Number,お電話番号,module,Magento_Customer
 Fax,Fax,module,Magento_Customer
 Address,住所,module,Magento_Customer
 Street Address,番地,module,Magento_Customer
@@ -3714,7 +3714,7 @@ Use as my default shipping address,標準配送先住所として使用する,mo
 Save Address,住所を保存,module,Magento_Customer
 Go back,戻る,module,Magento_Customer
 Please enter your email below and we will send you the confirmation link.,Eメールを下に入力してください。確認リンクを送付します。,module,Magento_Customer
-Email,Eメール,module,Magento_Customer
+Email,メールアドレス,module,Magento_Customer
 Send confirmation link,確認リンクを送信する,module,Magento_Customer
 Back to Sign In,サインインに戻る,module,Magento_Customer
 Change Email,メールアドレスを変更,module,Magento_Customer
@@ -3743,7 +3743,7 @@ You have signed out and will go to our homepage in 5 seconds.,サインアウト
 New Customers,まだご登録いただいていないお客様,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",会員登録いただくと、次のメリットがあります: 簡単にご購入いただけます、ご住所の登録ができます、ご注文内容をあとから確認いただけます。,module,Magento_Customer
 Gender,性別,module,Magento_Customer
-Name,名前,module,Magento_Customer
+Name,お名前,module,Magento_Customer
 Tax/VAT number,納税者番号,module,Magento_Customer
 Welcome to %store_name,%store_name へようこそ,module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
@@ -4064,7 +4064,7 @@ Please confirm site switching. All data that hasn't been saved will be lost.,サ
 * Required Fields,* 必須項目,module,Magento_CustomerCustomAttributes
 Contact Information,連絡先情報,module,Magento_CustomerCustomAttributes
 Company,会社名,module,Magento_CustomerCustomAttributes
-Phone Number,電話番号,module,Magento_CustomerCustomAttributes
+Phone Number,お電話番号,module,Magento_CustomerCustomAttributes
 Fax,Fax,module,Magento_CustomerCustomAttributes
 Address,住所,module,Magento_CustomerCustomAttributes
 Street Address,番地,module,Magento_CustomerCustomAttributes
@@ -4085,7 +4085,7 @@ Account Information,アカウント情報,module,Magento_CustomerCustomAttribute
 Change Email,メールアドレスを変更,module,Magento_CustomerCustomAttributes
 Change Password,パスワード変更,module,Magento_CustomerCustomAttributes
 Change Email and Password,メールアドレスとパスワードを変更する,module,Magento_CustomerCustomAttributes
-Email,Eメール,module,Magento_CustomerCustomAttributes
+Email,メールアドレス,module,Magento_CustomerCustomAttributes
 Current Password,現在のパスワード,module,Magento_CustomerCustomAttributes
 New Password,新パスワード,module,Magento_CustomerCustomAttributes
 Password Strength,パスワードの強度,module,Magento_CustomerCustomAttributes
@@ -4269,8 +4269,8 @@ Manage Segments,セグメント管理,module,Magento_CustomerSegment
 All Websites,すべてのウェブサイト,module,Magento_CustomerSegment
 CSV,CSVファイル,module,Magento_CustomerSegment
 Excel XML,Excel形式XML,module,Magento_CustomerSegment
-Name,名前,module,Magento_CustomerSegment
-Email,Eメール,module,Magento_CustomerSegment
+Name,お名前,module,Magento_CustomerSegment
+Email,メールアドレス,module,Magento_CustomerSegment
 Group,グループ,module,Magento_CustomerSegment
 Phone,電話,module,Magento_CustomerSegment
 ZIP,郵便番号,module,Magento_CustomerSegment
@@ -4633,7 +4633,7 @@ System,システム,module,Magento_Eav
 None,なし,module,Magento_Eav
 Decimal Number,10進数,module,Magento_Eav
 Integer Number,自然数,module,Magento_Eav
-Email,Eメール,module,Magento_Eav
+Email,メールアドレス,module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,文字列,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","アルファベット(a-z, A-Z)または数字(0-9)",module,Magento_Eav
@@ -5463,7 +5463,7 @@ City,市区町村,module,Magento_GiftRegistry
 "Please select a region, state or province.",都道府県を選択してください,module,Magento_GiftRegistry
 Zip/Postal Code,郵便番号,module,Magento_GiftRegistry
 Country,国,module,Magento_GiftRegistry
-Phone Number,電話番号,module,Magento_GiftRegistry
+Phone Number,お電話番号,module,Magento_GiftRegistry
 Fax,Fax,module,Magento_GiftRegistry
 Add All To Gift Registry,ギフトレジストリにすべて追加,module,Magento_GiftRegistry
 Ship to registrant's address,登録者の住所に配送,module,Magento_GiftRegistry
@@ -5482,8 +5482,8 @@ You haven't created a gift registry yet.,まだギフトレジストリを作成
 Add New,追加,module,Magento_GiftRegistry
 Remove,削除,module,Magento_GiftRegistry
 First Name,名,module,Magento_GiftRegistry
-Name,名前,module,Magento_GiftRegistry
-Email,Eメール,module,Magento_GiftRegistry
+Name,お名前,module,Magento_GiftRegistry
+Email,メールアドレス,module,Magento_GiftRegistry
 * Required Fields,* 必須項目,module,Magento_GiftRegistry
 Sender,送り主,module,Magento_GiftRegistry
 Invitee,被招待者,module,Magento_GiftRegistry
@@ -5704,7 +5704,7 @@ Add Selected Products,選択した商品を追加,module,Magento_GroupedProduct
 Remove,削除,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 Thumbnail,サムネイル,module,Magento_GroupedProduct
-Name,名前,module,Magento_GroupedProduct
+Name,お名前,module,Magento_GroupedProduct
 Attribute Set,属性セット,module,Magento_GroupedProduct
 Status,ステータス,module,Magento_GroupedProduct
 SKU,SKU,module,Magento_GroupedProduct
@@ -5733,7 +5733,7 @@ Select...,選択...,module,Magento_GroupedProductStaging
 Status,ステータス,module,Magento_GroupedProductStaging
 ID,ID,module,Magento_GroupedProductStaging
 Thumbnail,サムネイル,module,Magento_GroupedProductStaging
-Name,名前,module,Magento_GroupedProductStaging
+Name,お名前,module,Magento_GroupedProductStaging
 Type,種別,module,Magento_GroupedProductStaging
 SKU,SKU,module,Magento_GroupedProductStaging
 Quantity,個数,module,Magento_GroupedProductStaging
@@ -5892,8 +5892,8 @@ New Integration,新しいインテグレーション,module,Magento_Integration
 Edit Integration '%1',編集インテグレーション '%1',module,Magento_Integration
 Integration Info,インテグレーション情報,module,Magento_Integration
 General,全般,module,Magento_Integration
-Name,名前,module,Magento_Integration
-Email,Eメール,module,Magento_Integration
+Name,お名前,module,Magento_Integration
+Email,メールアドレス,module,Magento_Integration
 Callback URL,コールバックURL,module,Magento_Integration
 Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.,トークン交換のためにOauthを使う時、Oauthクレデンシャルが送れるURLを入力してください。 https:// を使用することを強くおすすめします,module,Magento_Integration
 Identity link URL,アイデンティティリンクURL,module,Magento_Integration
@@ -6086,7 +6086,7 @@ Discarded,破棄済,module,Magento_Invitation
 Invitation Information,招待情報,module,Magento_Invitation
 Send At,送信日時,module,Magento_Invitation
 Invitation Message,招待メッセージ,module,Magento_Invitation
-Email,Eメール,module,Magento_Invitation
+Email,メールアドレス,module,Magento_Invitation
 Status,状態,module,Magento_Invitation
 Website,ウェブサイト,module,Magento_Invitation
 Store View,ストアビュー,module,Magento_Invitation
@@ -6135,7 +6135,7 @@ ID,ID,module,Magento_Invitation
 Invitee,被招待者,module,Magento_Invitation
 Registered,登録済,module,Magento_Invitation
 Valid Website,有効なウェブサイト,module,Magento_Invitation
-Name,名前,module,Magento_Invitation
+Name,お名前,module,Magento_Invitation
 Group,グループ,module,Magento_Invitation
 Invitations Sent,招待送信済,module,Magento_Invitation
 Invitations Accepted,招待受付済,module,Magento_Invitation
@@ -6236,7 +6236,7 @@ Global Search,グローバル検索,module,Magento_Logging
 Apply,適用,module,Magento_Logging
 Reorder,再注文,module,Magento_Logging
 Print,印刷,module,Magento_Logging
-Email,Eメール,module,Magento_Logging
+Email,メールアドレス,module,Magento_Logging
 Run,実行,module,Magento_Logging
 Rollback,ロールバック,module,Magento_Logging
 Reindex Process,再インデックス処理,module,Magento_Logging
@@ -6385,7 +6385,7 @@ Use default address,標準の住所を使用,module,Magento_MultipleLocationInve
 Street Address,番地,module,Magento_MultipleLocationInventory
 Add New Warehouse,新しい倉庫を追加,module,Magento_MultipleLocationInventory
 ID,ID,module,Magento_MultipleLocationInventory
-Name,名前,module,Magento_MultipleLocationInventory
+Name,お名前,module,Magento_MultipleLocationInventory
 Contact Name,連絡先氏名,module,Magento_MultipleLocationInventory
 Email,メール,module,Magento_MultipleLocationInventory
 Country,国,module,Magento_MultipleLocationInventory
@@ -6462,7 +6462,7 @@ Configure and Add to Order,オプションを選択して追加する,module,Mag
 No items,商品なし,module,Magento_MultipleWishlist
 Delete Wish List,ほしい物リストを削除,module,Magento_MultipleWishlist
 Owner,所有者,module,Magento_MultipleWishlist
-Name,名前,module,Magento_MultipleWishlist
+Name,お名前,module,Magento_MultipleWishlist
 Updated,更新,module,Magento_MultipleWishlist
 Wish List Items,ほしい物リストアイテム,module,Magento_MultipleWishlist
 You must select items to add to the cart.,カートに追加するアイテムを選択する必要があります。,module,Magento_MultipleWishlist
@@ -6749,7 +6749,7 @@ Copy,コピー,module,Magento_Newsletter
 Are you sure you want to delete this template?,このテンプレートを本当に削除しますか？,module,Magento_Newsletter
 Sign Up for Our Newsletter:,ニュースレターをご購読ください:,module,Magento_Newsletter
 Enter your email address,メールアドレスを入力してください,module,Magento_Newsletter
-Subscribe,購読,module,Magento_Newsletter
+Subscribe,登録,module,Magento_Newsletter
 Newsletter subscription confirmation,ニュースレター購読確認,module,Magento_Newsletter
 Thank you for subscribing to our newsletter.,ニュースレターの購読ありがとうございます。,module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",ニュースレターを受け取るには、 以下のリンクをクリックして購読の確認をまず行わなければなりません:,module,Magento_Newsletter
@@ -6960,7 +6960,7 @@ Payment Services,Paymentサービス,module,Magento_Payment
 Payment Methods,支払方法,module,Magento_Payment
 Billing Agreements,支払い同意,module,Magento_Paypal
 ID,ID,module,Magento_Paypal
-Email,Eメール,module,Magento_Paypal
+Email,メールアドレス,module,Magento_Paypal
 First Name,名,module,Magento_Paypal
 Last Name,姓,module,Magento_Paypal
 Reference ID,リファレンスID,module,Magento_Paypal
@@ -7775,7 +7775,7 @@ Email Reminder Rule,リマインダーメールルール,module,Magento_Reminder
 Conditions,条件,module,Magento_Reminder
 You need to set at least one condition for this rule to work.,このルールを機能させるには、少なくとも1つの条件を設定する必要があります。,module,Magento_Reminder
 ID,ID,module,Magento_Reminder
-Email,Eメール,module,Magento_Reminder
+Email,メールアドレス,module,Magento_Reminder
 Matched At,一致,module,Magento_Reminder
 Thread Active,スレッドアクティブ,module,Magento_Reminder
 No,No,module,Magento_Reminder
@@ -8004,7 +8004,7 @@ Order Taxes Report Grouped by Tax Rate,注文税レポートを税率でグル�
 Rate,レート,module,Magento_Reports
 Tax Amount,税,module,Magento_Reports
 Abandoned carts,無効になったショッピングカート,module,Magento_Reports
-Email,Eメール,module,Magento_Reports
+Email,メールアドレス,module,Magento_Reports
 Products,商品,module,Magento_Reports
 Quantity,個数,module,Magento_Reports
 Applied Coupon,適用されたクーポン,module,Magento_Reports
@@ -8017,7 +8017,7 @@ Last Name,姓,module,Magento_Reports
 Items in Cart,点の商品,module,Magento_Reports
 Products in carts,カート内の商品,module,Magento_Reports
 Carts,カート,module,Magento_Reports
-Name,名前,module,Magento_Reports
+Name,お名前,module,Magento_Reports
 Wish Lists,ほしい物リスト,module,Magento_Reports
 Wish List Purchase,ほしい物リスト購入,module,Magento_Reports
 Wish List vs. Regular Order,ほしい物リスト vs. 通常注文,module,Magento_Reports
@@ -8183,7 +8183,7 @@ Pending Reviews,承認待ちのレビュー,module,Magento_Review
 All Reviews of Customer `%1`,顧客のすべてのレビュー `%1`,module,Magento_Review
 All Reviews of Product `%1`,商品のすべてのレビュー `%1`,module,Magento_Review
 All Reviews,全てのレビュー,module,Magento_Review
-Name,名前,module,Magento_Review
+Name,お名前,module,Magento_Review
 Product Store Name,商品ストア名,module,Magento_Review
 Price,価格,module,Magento_Review
 Quantity,個数,module,Magento_Review
@@ -9290,7 +9290,7 @@ First Name,名,module,Magento_Sales
 Last Name,姓,module,Magento_Sales
 State/Province,都道府県,module,Magento_Sales
 Street Address,番地,module,Magento_Sales
-Phone Number,電話番号,module,Magento_Sales
+Phone Number,お電話番号,module,Magento_Sales
 Zip/Postal Code,郵便番号,module,Magento_Sales
 We can't save the address:\n%1,アドレスを保存することはできません:\n%1,module,Magento_Sales
 Cannot save comment:\n%1,コメントを保存できません:\n%1,module,Magento_Sales
@@ -9614,7 +9614,7 @@ Orders and Returns Search Form,注文と返品検索フォーム,module,Magento_
 Anchor Custom Title,アンカーカスタムタイトル,module,Magento_Sales
 Template,テンプレート,module,Magento_Sales
 Default Template,標準テンプレート,module,Magento_Sales
-Name,名前,module,Magento_Sales
+Name,お名前,module,Magento_Sales
 Phone,電話,module,Magento_Sales
 ZIP/Post Code,郵便番号,module,Magento_Sales
 Signed-up Point,登録元,module,Magento_Sales
@@ -9894,7 +9894,7 @@ Web Site,ウェブサイト,module,Magento_SalesRuleStaging
 Action,アクション,module,Magento_SalesRuleStaging
 Edit,編集,module,Magento_SalesRuleStaging
 Scheduled Changes,予定された変更,module,Magento_SalesRuleStaging
-Name,名前,module,Magento_SalesRuleStaging
+Name,お名前,module,Magento_SalesRuleStaging
 Description,概要,module,Magento_SalesRuleStaging
 Update Information,更新情報,module,Magento_SalesRuleStaging
 Remove Cart Price Rule from Update,アップデートから過クーポンを削除する,module,Magento_SalesRuleStaging
@@ -9953,7 +9953,7 @@ Add Scheduled Export,定期エクスポートの追加,module,Magento_ScheduledI
 Add Scheduled Import,定期インポートの追加,module,Magento_ScheduledImportExport
 Scheduled Import/Export,定期インポート/エクスポート,module,Magento_ScheduledImportExport
 Please correct the scheduled operation type.,スケジュールされた操作の種類を修正してください。,module,Magento_ScheduledImportExport
-Name,名前,module,Magento_ScheduledImportExport
+Name,お名前,module,Magento_ScheduledImportExport
 Description,概要,module,Magento_ScheduledImportExport
 Entity Type,エンティティタイプ,module,Magento_ScheduledImportExport
 Start Time,開始時刻,module,Magento_ScheduledImportExport
@@ -10214,7 +10214,7 @@ Localized Exception.,ローカライズ例外,module,Magento_SendFriend
 Exception.,例外。,module,Magento_SendFriend
 Remove Recipent,受取人削除,module,Magento_SendFriend
 Remove,削除,module,Magento_SendFriend
-Name,名前,module,Magento_SendFriend
+Name,お名前,module,Magento_SendFriend
 Email,メール,module,Magento_SendFriend
 * Required Fields,* 必須項目,module,Magento_SendFriend
 Sender,送り主,module,Magento_SendFriend
@@ -10718,7 +10718,7 @@ New Eav Attributes,新しいEav属性,module,Magento_Support
 Product Eav Attributes,製品Eav属性,module,Magento_Support
 Rma Item Eav Attributes,RmaアイテムEav属性,module,Magento_Support
 User Defined Eav Attributes,ユーザー定義のEav属性,module,Magento_Support
-Name,名前,module,Magento_Support
+Name,お名前,module,Magento_Support
 Enabled,有効,module,Magento_Support
 Value,値,module,Magento_Support
 Scope,スコープ,module,Magento_Support
@@ -10784,7 +10784,7 @@ Duplicate Products By URL Key,URLキーによる商品の重複,module,Magento_S
 URL Key,URLキー,module,Magento_Support
 Website,ウェブサイト,module,Magento_Support
 Duplicate Users By Email,電子メールによるユーザーの重複,module,Magento_Support
-Email,Eメール,module,Magento_Support
+Email,メールアドレス,module,Magento_Support
 Type,種別,module,Magento_Support
 Parent,ペアレント,module,Magento_Support
 Adminhtml Themes List,Adminhtmlのテーマリスト,module,Magento_Support
@@ -11038,7 +11038,7 @@ Save Rule,ルールの保存,module,Magento_Tax
 Delete Rule,ルールの削除,module,Magento_Tax
 Save and Continue Edit,保存して編集を続ける,module,Magento_Tax
 Tax Rule Information,税率情報,module,Magento_Tax
-Name,名前,module,Magento_Tax
+Name,お名前,module,Magento_Tax
 Customer Tax Class,顧客課税区分,module,Magento_Tax
 Product Tax Class,商品税区分,module,Magento_Tax
 Tax Rate,税率,module,Magento_Tax
@@ -11654,7 +11654,7 @@ Add URL Rewrite for a Product,商品のURL書換を追加,module,Magento_UrlRewr
 Product:,商品:,module,Magento_UrlRewrite
 Skip Category Selection,カテゴリ選択をスキップする,module,Magento_UrlRewrite
 ID,ID,module,Magento_UrlRewrite
-Name,名前,module,Magento_UrlRewrite
+Name,お名前,module,Magento_UrlRewrite
 SKU,商品番号,module,Magento_UrlRewrite
 Status,状態,module,Magento_UrlRewrite
 Edit URL Rewrite for CMS page,CMSページ用のURLリライト編集,module,Magento_UrlRewrite
@@ -11718,7 +11718,7 @@ User ID,ユーザーID,module,Magento_User
 User Name,ユーザ名,module,Magento_User
 First Name,名,module,Magento_User
 Last Name,姓,module,Magento_User
-Email,Eメール,module,Magento_User
+Email,メールアドレス,module,Magento_User
 Status,状態,module,Magento_User
 Active,アクティブ,module,Magento_User
 Inactive,未アクティブ,module,Magento_User
@@ -11782,7 +11782,7 @@ A user with the same user name or email already exists.,同じユーザーネー
 Recommended,推奨,module,Magento_User
 Forced,強制,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
-email,Eメール,module,Magento_User
+email,メールアドレス,module,Magento_User
 password,パスワード,module,Magento_User
 username,ユーザー名,module,Magento_User
 You did not sign in correctly or your account is temporarily disabled.,正しくサインインしなかったかあなたのアカウントは一時的に無効です,module,Magento_User
@@ -12003,7 +12003,7 @@ Validation has failed.,認証失敗,module,Magento_Variable
 %1,%1,module,Magento_Variable
 Insert Variable...,変数の挿入...,module,Magento_Variable
 Variable ID,変数ID,module,Magento_Variable
-Name,名前,module,Magento_Variable
+Name,お名前,module,Magento_Variable
 No token found.,トークンが見つかりません。,module,Magento_Vault
 Wrong request.,間違ったリクエスト。,module,Magento_Vault
 Deletion failure. Please try again.,削除に失敗しました。もう一度お試しください。,module,Magento_Vault
@@ -12230,7 +12230,7 @@ Sort,ソート,module,Magento_VisualMerchandiser
 Automatic Sorting,自動ソート,module,Magento_VisualMerchandiser
 Sort order,ソート順,module,Magento_VisualMerchandiser
 Thumbnail,サムネイル,module,Magento_VisualMerchandiser
-Name,名前,module,Magento_VisualMerchandiser
+Name,お名前,module,Magento_VisualMerchandiser
 Price,価格,module,Magento_VisualMerchandiser
 SKU,商品番号,module,Magento_VisualMerchandiser
 Stock,在庫数,module,Magento_VisualMerchandiser
@@ -12611,7 +12611,7 @@ Account Dashboard,アカウントダッシュボード,theme,frontend/Magento/lu
 Address Book,アドレス帳,theme,frontend/Magento/luma
 Account Information,アカウント情報,theme,frontend/Magento/luma
 "English","Japanese",theme,frontend/Gear4/default
-"Contact Us","お問い合わせお問い合わせ",theme,frontend/Gear4/default
+"Contact Us","お問い合わせフォーム",theme,frontend/Gear4/default
 "To The Top","トップに戻るトップに戻る",theme,frontend/Gear4/default
 "Cart Subtotal","カート合計カート合計",theme,frontend/Gear4/default
 "View cart","カートを見るカートを見る",theme,frontend/Gear4/default
