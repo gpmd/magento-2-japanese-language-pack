@@ -12635,3 +12635,10 @@ Account Information,アカウント情報,theme,frontend/Magento/luma
 "orchid grey","オーキッドグレー",theme,frontend/Gear4/default
 "brown","ブラウン",theme,frontend/Gear4/default
 "Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored","このフィールド最低8文字以上必要です。先頭と末尾のスペースはカウントされません。",theme,frontend/Gear4/default
+"My Bag","お客様のショッピングバッグ",theme,frontend/Gear4/default
+"Your bag is empty","お客様のショッピングバッグに商品はありません",theme,frontend/Gear4/default
+"What are you looking for?","何をお探ししですか？",theme,frontend/Gear4/default
+"View Cart","カートを見る",theme,frontend/Gear4/default
+“You have added %1 to cart”,”%1 バターシー・ギャラクシーＳ８+ケースをカートに入れました”,theme,frontend/Gear4/default
+“Cart Subtotal”,”カートの小計”,theme,frontend/Gear4/default
+“There is %1 item in your cart”,”カートに商品が%1点あります。”,theme,frontend/Gear4/default
