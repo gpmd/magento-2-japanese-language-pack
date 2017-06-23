@@ -271,7 +271,7 @@ Ok,Ok,module,Magento_Analytics
 Back,戻る,module,Magento_AsynchronousOperations
 Done,完了,module,Magento_AsynchronousOperations
 Retry,やり直し,module,Magento_AsynchronousOperations
-'Action Details - #' .,'Action Details - #' .,module,Magento_AsynchronousOperations
+Action Details - #' .,Action Details - #' .,module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update.""",module,Magento_AsynchronousOperations
 Bulk Actions Log,Bulk Actions Log,module,Magento_AsynchronousOperations
 %1 item(s) are currently being updated.,%1 item(s) are currently being updated.,module,Magento_AsynchronousOperations
@@ -1526,7 +1526,7 @@ We can't find an attribute to delete.,削除する属性が見つかりません
 This attribute no longer exists.,この属性はもう存在しません。,module,Magento_Catalog
 This attribute cannot be edited.,この属性は変更できません。,module,Magento_Catalog
 Edit Product Attribute,商品属性の編集,module,Magento_Catalog
-An attribute set named '%1' already exists.,'%1'という名の属性セットは既に存在します。,module,Magento_Catalog
+An attribute set named '%1' already exists.,%1'という名の属性セットは既に存在します。,module,Magento_Catalog
 Something went wrong while saving the attribute.,属性の保存中に問題が発生しました。,module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","属性コード ""%1""は不正です。 文字 (a-z);数字 (0-9)あるいはアンダースコア(_)のみフィールドでは使ってください、また最初のキャラは文字でなくてはなりません。",module,Magento_Catalog
 We can't update the attribute.,属性をアップデートできません。,module,Magento_Catalog
@@ -1679,8 +1679,8 @@ We can't add the product to the cart because of an option validation issue.,オ�
 %1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType,%1 は \Magento\Catalog\Model\Product\Option\Type\DefaultType　を拡張しません。,module,Magento_Catalog
 The file options format is not valid.,ファイルオプションフォーマットは有効ではありません。,module,Magento_Catalog
 px.,ピクセル,module,Magento_Catalog
-The file '%1' for '%2' has an invalid extension.,'%2' の'%1' ファイルが無効なエクステンションをもっています。,module,Magento_Catalog
-The maximum allowed image size for '%1' is %2x%3 px.,'%1'のための最大可能画像サイズは %2x%3 pxです。,module,Magento_Catalog
+The file '%1' for '%2' has an invalid extension.,%2' の'%1' ファイルが無効なエクステンションをもっています。,module,Magento_Catalog
+The maximum allowed image size for '%1' is %2x%3 px.,%1'のための最大可能画像サイズは %2x%3 pxです。,module,Magento_Catalog
 The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.,アップロードされたファイル '%1'は我々のサーバーで許可された %2 メガバイトより大きいです。,module,Magento_Catalog
 The file '%1' is empty. Please choose another one,ファイル'%1' は空です。 別のものをお選びください,module,Magento_Catalog
 The file '%1' is invalid. Please choose another one,ファイル '%1' は無効です。 別のものをお選びください,module,Magento_Catalog
@@ -2163,17 +2163,17 @@ Edit,編集,module,Magento_CatalogEvent
 Entity type model '%1' is not found,エンティティタイプモデルは' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType　のインスタンスでなければなりません,module,Magento_CatalogImportExport
 Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType,エンティティのタイプモデルは　\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType のインスタンスでなければなりません。,module,Magento_CatalogImportExport
 There are no product types available for export.,エクスポートのための有効な商品タイプがありません。,module,Magento_CatalogImportExport
-'Entity type model must be an instance of ' .,'エンティティタイプは次のインスタンスである必要があります'。,module,Magento_CatalogImportExport
+Entity type model must be an instance of ' .,エンティティタイプは次のインスタンスである必要があります'。,module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Category ""%1"" has not been created.",module,Magento_CatalogImportExport
 File directory '%1' is not readable.,ファイルディレクトリー '%1' 書き込み可能ではありません。,module,Magento_CatalogImportExport
 File directory '%1' is not writable.,ファイルディレクトリー '%1' 書き込み可能ではありません。,module,Magento_CatalogImportExport
-Value for 'price' sub attribute in 'store' attribute contains incorrect value,'store'の属性の'price'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","'custom_options' の属性の'type'副属性の値は誤った値を含んでいます:受け付ける値は'dropdown', 'checkbox'",module,Magento_CatalogImportExport
+Value for 'price' sub attribute in 'store' attribute contains incorrect value,store'の属性の'price'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","custom_options' の属性の'type'副属性の値は誤った値を含んでいます:受け付ける値は'dropdown', 'checkbox'",module,Magento_CatalogImportExport
 Please enter a value for title.,タイトルのための値を入力してください。,module,Magento_CatalogImportExport
-Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value,'custom_options'の属性の'price'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
-Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value,'custom_options'の属性の'maximum characters'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
-Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value,'custom_options'の属性の'sort order'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
-Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value,'custom_options'の属性の'value price'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
+Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value,custom_options'の属性の'price'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
+Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value,custom_options'の属性の'maximum characters'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
+Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value,custom_options'の属性の'sort order'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
+Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value,custom_options'の属性の'value price'副属性の値は誤った値を含んでいます。,module,Magento_CatalogImportExport
 This name is already being used for custom option. Please enter a different name.,この名前はカスタムオプションに既に使われています。別の名前を入力してください。,module,Magento_CatalogImportExport
 Custom options have different types.,カスタムオプションには異なるタイプがあります。,module,Magento_CatalogImportExport
 Every option entity must have a parent product entity.,全てのオプションエンティティは親製品エンティティを持っていなければなりません。,module,Magento_CatalogImportExport
@@ -2411,7 +2411,7 @@ Grid,表,module,Magento_CatalogSearch
 List,リスト,module,Magento_CatalogSearch
 Search Weight,検索ウエイト,module,Magento_CatalogSearch
 Relevance,関係性,module,Magento_CatalogSearch
-Search results for: '%1','%1' の検索結果,module,Magento_CatalogSearch
+Search results for: '%1',%1' の検索結果,module,Magento_CatalogSearch
 Minimum Search query length is %1,最低限の検索クエリの長さは %1,module,Magento_CatalogSearch
 Please specify at least one search term.,1つ以上のキーワードを指定してください。,module,Magento_CatalogSearch
 %1 and greater,%1 とそれ以上,module,Magento_CatalogSearch
@@ -3058,8 +3058,8 @@ Config form fieldset clone model required to be able to clone fields,フィー�
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
 Invalid XML in file %1:\n%2,ファイル %1の無効なXML:\n%2,module,Magento_Config
 0,0,module,Magento_Config
-'There is no defined type ' .,'定義された型はありません' .,module,Magento_Config
-'Object is not instance of ' .,'オブジェクトはインスタンスではありません ' .,module,Magento_Config
+There is no defined type ' .,定義された型はありません' .,module,Magento_Config
+Object is not instance of ' .,オブジェクトはインスタンスではありません ' .,module,Magento_Config
 Filesystem is not writable.,Filesystem is not writable.,module,Magento_Config
 Test exception,Test exception,module,Magento_Config
 error message,error message,module,Magento_Config
@@ -3593,14 +3593,14 @@ Attribute object is undefined,属性オブジェクトが未定義です,module,
 """%1"" is not a valid email address.","%1""""は正しいメールアドレスではありません",module,Magento_Customer
 """%1"" is not a valid hostname.","""%1"" は有効なホストネームではない",module,Magento_Customer
 """%1"" uses too many characters.","""%1"" は文字数が多すぎです",module,Magento_Customer
-"'%value%' looks like an IP address, which is not an acceptable format.",'%value%'はIPアドレスのようですが適切なフォーマットではありません,module,Magento_Customer
-'%value%' looks like a DNS hostname but we cannot match the TLD against known list.,'%value%'はDNSホストネームのようですがTLDが既知のリストにマッチしません,module,Magento_Customer
-'%value%' looks like a DNS hostname but contains a dash in an invalid position.,'%value%'はDNSホストネームのようですがダッシュが不正な位置にあります,module,Magento_Customer
-'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.,'%value%' はDNSホストネームのようですがTLD '%tld%'のホストネームスキーマにマッチできません,module,Magento_Customer
-'%value%' looks like a DNS hostname but cannot extract TLD part.,'%value%' looks like a DNS hostname but cannot extract TLD part.,module,Magento_Customer
-'%value%' does not look like a valid local network name.,'%value%'は有効なローカルネットワーク名ではありません,module,Magento_Customer
-"'%value%' looks like a local network name, which is not an acceptable format.",'%value%' はローカルホストネームのようですが受けれられるフォーマットではありません。,module,Magento_Customer
-"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",'%value%' はDNSホストネームのようですが渡されたピューニーノーテーションは解読できません。,module,Magento_Customer
+"%value%' looks like an IP address, which is not an acceptable format.",%value%'はIPアドレスのようですが適切なフォーマットではありません,module,Magento_Customer
+%value%' looks like a DNS hostname but we cannot match the TLD against known list.,%value%'はDNSホストネームのようですがTLDが既知のリストにマッチしません,module,Magento_Customer
+%value%' looks like a DNS hostname but contains a dash in an invalid position.,%value%'はDNSホストネームのようですがダッシュが不正な位置にあります,module,Magento_Customer
+%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.,%value%' はDNSホストネームのようですがTLD '%tld%'のホストネームスキーマにマッチできません,module,Magento_Customer
+%value%' looks like a DNS hostname but cannot extract TLD part.,%value%' looks like a DNS hostname but cannot extract TLD part.,module,Magento_Customer
+%value%' does not look like a valid local network name.,%value%'は有効なローカルネットワーク名ではありません,module,Magento_Customer
+"%value%' looks like a local network name, which is not an acceptable format.",%value%' はローカルホストネームのようですが受けれられるフォーマットではありません。,module,Magento_Customer
+"%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",%value%' はDNSホストネームのようですが渡されたピューニーノーテーションは解読できません。,module,Magento_Customer
 """%1"" is not a valid URL.","""%1""は有効なURLではありません",module,Magento_Customer
 """%1"" is not a valid date.","""%1""は有効な日付ではありません",module,Magento_Customer
 """%1"" does not fit the entered date format.","""%1""は入力された日付のフォーマットに合致しません",module,Magento_Customer
@@ -4398,7 +4398,7 @@ DHL service is not available at %s date,DHLサービスは%sの日付では有�
 The response is in wrong format.,レスポンスが不正なフォーマットです。,module,Magento_Dhl
 Error #%1 : %2,エラー #%1 : %2,module,Magento_Dhl
 We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).,DHLメソッド%1を、換金レート%2(基本通貨)が見つからなかったのでスキップしました,module,Magento_Dhl
-Zero shipping charge for '%1','%1'の送料は無料,module,Magento_Dhl
+Zero shipping charge for '%1',%1'の送料は無料,module,Magento_Dhl
 DHL,DHL,module,Magento_Dhl
 Cannot identify measure unit for %1,%1の測定単位が不明です,module,Magento_Dhl
 Cannot identify weight unit for %1,%1の重量単位が不明です,module,Magento_Dhl
@@ -4654,15 +4654,15 @@ Entity object is undefined,エンティティオブジェクトが未定義で�
 """%1"" is not a valid email address.","%1""""は正しいメールアドレスではない",module,Magento_Eav
 """%1"" is not a valid hostname.","%1"""" は有効なホストネームではない",module,Magento_Eav
 """%1"" uses too many characters.","%1"""" は文字数が多すぎです",module,Magento_Eav
-"'%value%' looks like an IP address, which is not an acceptable format.",'%value%'はIPアドレスのようですが適切なフォーマットではありません,module,Magento_Eav
-'%value%' looks like a DNS hostname but we cannot match the TLD against known list.,'%value%'はDNSホストネームのようですがTLDが既知のリストにマッチしません,module,Magento_Eav
-'%value%' looks like a DNS hostname but contains a dash in an invalid position.,'%value%'はDNSホストネームのようですがダッシュが不正な位置にあります,module,Magento_Eav
-'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.,"'%value%' はDNSホストネームのようですがTLD '%tld%'のホストネームスキーマにマッチできません
+"%value%' looks like an IP address, which is not an acceptable format.",%value%'はIPアドレスのようですが適切なフォーマットではありません,module,Magento_Eav
+%value%' looks like a DNS hostname but we cannot match the TLD against known list.,%value%'はDNSホストネームのようですがTLDが既知のリストにマッチしません,module,Magento_Eav
+%value%' looks like a DNS hostname but contains a dash in an invalid position.,%value%'はDNSホストネームのようですがダッシュが不正な位置にあります,module,Magento_Eav
+%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.,"'%value%' はDNSホストネームのようですがTLD '%tld%'のホストネームスキーマにマッチできません
 '%value%' looks like a DNS hostname but cannot extract TLD part.""",module,Magento_Eav
-'%value%' looks like a DNS hostname but cannot extract TLD part.,'%value%'はDNSホストネームのようですがTLD部分を抽出できません,module,Magento_Eav
-'%value%' does not look like a valid local network name.,'%value%'は有効なローカルネットワーク名ではありません,module,Magento_Eav
-"'%value%' looks like a local network name, which is not an acceptable format.",'%value%' はローカルホストネームのようですが受けれられるフォーマットではありません。,module,Magento_Eav
-"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",'%value%' はDNSホストネームのようですが渡されたピューニーノーテーションは解読できません,module,Magento_Eav
+%value%' looks like a DNS hostname but cannot extract TLD part.,%value%'はDNSホストネームのようですがTLD部分を抽出できません,module,Magento_Eav
+%value%' does not look like a valid local network name.,%value%'は有効なローカルネットワーク名ではありません,module,Magento_Eav
+"%value%' looks like a local network name, which is not an acceptable format.",%value%' はローカルホストネームのようですが受けれられるフォーマットではありません。,module,Magento_Eav
+"%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.",%value%' はDNSホストネームのようですが渡されたピューニーノーテーションは解読できません,module,Magento_Eav
 """%1"" is not a valid URL.","%1""""は有効なURLではありません",module,Magento_Eav
 """%1"" is not a valid date.","%1""は有効な日付ではありません",module,Magento_Eav
 """%1"" does not fit the entered date format.","%1""""は入力された日付のフォーマットに合致しません",module,Magento_Eav
@@ -5313,7 +5313,7 @@ Save,保存,module,Magento_GiftRegistry
 "If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?",このギフトレジストリタイプを削除すると、このタイプを使用する顧客レジストリも削除されます。続けますか？,module,Magento_GiftRegistry
 Delete,削除,module,Magento_GiftRegistry
 Save and Continue Edit,保存して編集を続ける,module,Magento_GiftRegistry
-Edit '%1' Gift Registry Type,'%1'ギフトレジストリタイプを編集する,module,Magento_GiftRegistry
+Edit '%1' Gift Registry Type,%1'ギフトレジストリタイプを編集する,module,Magento_GiftRegistry
 New Gift Registry Type,新しいギフトレジストリ種別,module,Magento_GiftRegistry
 Add Attribute,属性の追加,module,Magento_GiftRegistry
 Delete Attribute,属性を削除,module,Magento_GiftRegistry
@@ -5357,7 +5357,7 @@ We can't add shopping cart items to the gift registry right now.,ショッピン
 You deleted this gift registry entity.,このギフトレジストリエンティティを削除しました。,module,Magento_GiftRegistry
 We couldn't delete this gift registry entity.,このギフトレジストリエンティティは削除できませんでした。,module,Magento_GiftRegistry
 Customers,顧客,module,Magento_GiftRegistry
-Edit '%1' Gift Registry,'%1'ギフトレジストリを編集する,module,Magento_GiftRegistry
+Edit '%1' Gift Registry,%1'ギフトレジストリを編集する,module,Magento_GiftRegistry
 Something went wrong while editing the gift registry.,ギフトレジストリの編集中に何か問題が発生しました。,module,Magento_GiftRegistry
 Please enter at least one email address.,少なくとも1つのメールアドレスを入力してください。,module,Magento_GiftRegistry
 %1 email(s) were sent.,%1 email(s) were sent.,module,Magento_GiftRegistry
@@ -5831,7 +5831,7 @@ Please enter a correct entity model,正しいエンティティモデルを入�
 Source file coping failed,ソースファイルコピー失敗,module,Magento_ImportExport
 The source is not set.,ソースは設定されていません。,module,Magento_ImportExport
 The adapter type must be a non-empty string.,アダプタータイプは空ではない文字列でなければなりません。,module,Magento_ImportExport
-'%1' file extension is not supported,'%1'ファイル拡張子はサポートされていません,module,Magento_ImportExport
+%1' file extension is not supported,%1'ファイル拡張子はサポートされていません,module,Magento_ImportExport
 Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource,アダプターは \Magento\ImportExport\Model\Import\AbstractSource のインスタンスでなければなりません,module,Magento_ImportExport
 Please specify a source.,ソースを指定してください,module,Magento_ImportExport
 ImportExport: Import Data validation - Validation strategy not found,ImportExport: インポートデータ認証 - 認証ストラテジーが見つかりません,module,Magento_ImportExport
@@ -5940,7 +5940,7 @@ This customer has no tokens.,この顧客にはトークンがありません,mo
 Inactive,未アクティブ,module,Magento_Integration
 Active,アクティブ,module,Magento_Integration
 Reset,リセット,module,Magento_Integration
-Integration with name '%1' exists.,"'%1'という名のインテグレーションが存在します ""Integration with ID '%1' does not exist.""",module,Magento_Integration
+Integration with name '%1' exists.,"%1'という名のインテグレーションが存在します ""Integration with ID '%1' does not exist.""",module,Magento_Integration
 Integration with ID '%1' does not exist.,ID'%1'のインテグレーションは存在しません。,module,Magento_Integration
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","1つまたは複数の<a href=""%1"">統合</a>が、xml構成の変更によりリセットされました。",module,Magento_Integration
 Invalid Callback URL,不正なコールバックURL,module,Magento_Integration
@@ -10553,7 +10553,7 @@ Invalid action type %1.,無効なアクションタイプ %1です。,module,Mag
 Invalid action.,無効な操作です。,module,Magento_Staging
 Invalid parameter %1.,パラメータが無効です %1.,module,Magento_Staging
 Something went wrong while removing the %1.,%1 を削除中に何か問題が発生しました。,module,Magento_Staging
-The 'mode' value is unexpected.,'mode'値は予期しない値です。,module,Magento_Staging
+The 'mode' value is unexpected.,mode'値は予期しない値です。,module,Magento_Staging
 You saved this %1 update.,この %1 アップデートを保存しました。,module,Magento_Staging
 Something went wrong while saving the %1.,%1を保存中に何か問題が発生しました。,module,Magento_Staging
 Requested type does not have corresponding implementation,要求されたタイプに対応する実装がありません,module,Magento_Staging
@@ -11019,7 +11019,7 @@ Tax Rate Information,税率情報,module,Magento_Tax
 Tax Identifier,税識別子,module,Magento_Tax
 Zip/Post is Range,郵便番号の範囲,module,Magento_Tax
 Zip/Post Code,郵便番号,module,Magento_Tax
-'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.,'*' - すべてにマッチ; 'xyz*' - 'xyz'で始まるものすべて、そして%1の長さ以下,module,Magento_Tax
+*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.,*' - すべてにマッチ; 'xyz*' - 'xyz'で始まるものすべて、そして%1の長さ以下,module,Magento_Tax
 Range From,開始,module,Magento_Tax
 Range To,終了,module,Magento_Tax
 State,都道府県,module,Magento_Tax
@@ -12610,35 +12610,35 @@ Update to your %store_name shipment,%store_name 出荷データへの更新,them
 Account Dashboard,アカウントダッシュボード,theme,frontend/Magento/luma
 Address Book,アドレス帳,theme,frontend/Magento/luma
 Account Information,アカウント情報,theme,frontend/Magento/luma
-"English","Japanese",theme,frontend/Gear4/default
-"Contact Us","お問い合わせフォーム",theme,frontend/Gear4/default
-"To The Top","トップに戻るトップに戻る",theme,frontend/Gear4/default
-"Cart Subtotal","カート合計カート合計",theme,frontend/Gear4/default
-"View cart","カートを見るカートを見る",theme,frontend/Gear4/default
-"Continue","続ける続ける",theme,frontend/Gear4/default
-"Checkout Securely","セキュアチェックアウト",theme,frontend/Gear4/default
-"Address Search","住所検索住所検索",theme,frontend/Gear4/default
-"Start with post/zip code or street","郵便番号を入力郵便番号を入力",theme,frontend/Gear4/default
-"Free","無料無料",theme,frontend/Gear4/default
-"Free Shipping","送料無料送料無料",theme,frontend/Gear4/default
-"Credit Card","クレジットカード",theme,frontend/Gear4/default
-"Forgot Your Password","パスワードを忘れた方パスワードを忘れた方",theme,frontend/Gear4/default
-"My Credit Cards","登録クレジットカード",theme,frontend/Gear4/default
-"You have no credit cards","クレジットカードが登録されていません",theme,frontend/Gear4/default
-"colour (Manufacturer)","カラー",theme,frontend/Gear4/default
-"black","ブラック",theme,frontend/Gear4/default
-"gold coloured","ゴールド",theme,frontend/Gear4/default
-"red","レッド",theme,frontend/Gear4/default
-"rose gold coloured","ローズゴールド",theme,frontend/Gear4/default
-"silver coloured","シルバー",theme,frontend/Gear4/default
-"blue","ブルー",theme,frontend/Gear4/default
-"orchid grey","オーキッドグレー",theme,frontend/Gear4/default
-"brown","ブラウン",theme,frontend/Gear4/default
-"Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored","このフィールド最低8文字以上必要です。先頭と末尾のスペースはカウントされません。",theme,frontend/Gear4/default
-"My Bag","お客様のショッピングバッグ",theme,frontend/Gear4/default
-"Your bag is empty","お客様のショッピングバッグに商品はありません",theme,frontend/Gear4/default
-"What are you looking for?","何をお探ししですか？",theme,frontend/Gear4/default
-"View Cart","カートを見る",theme,frontend/Gear4/default
-“You have added %1 to cart”,”%1 バターシー・ギャラクシーＳ８+ケースをカートに入れました”,theme,frontend/Gear4/default
-“Cart Subtotal”,”カートの小計”,theme,frontend/Gear4/default
-“There is %1 item in your cart”,”カートに商品が%1点あります。”,theme,frontend/Gear4/default
+English,Japanese,theme,frontend/Gear4/default
+Contact Us,お問い合わせフォーム,theme,frontend/Gear4/default
+To The Top,トップに戻るトップに戻る,theme,frontend/Gear4/default
+Cart Subtotal,カート合計カート合計,theme,frontend/Gear4/default
+View cart,カートを見るカートを見る,theme,frontend/Gear4/default
+Continue,続ける続ける,theme,frontend/Gear4/default
+Checkout Securely,セキュアチェックアウト,theme,frontend/Gear4/default
+Address Search,住所検索住所検索,theme,frontend/Gear4/default
+Start with post/zip code or street,郵便番号を入力郵便番号を入力,theme,frontend/Gear4/default
+Free,無料無料,theme,frontend/Gear4/default
+Free Shipping,送料無料送料無料,theme,frontend/Gear4/default
+Credit Card,クレジットカード,theme,frontend/Gear4/default
+Forgot Your Password,パスワードを忘れた方パスワードを忘れた方,theme,frontend/Gear4/default
+My Credit Cards,登録クレジットカード,theme,frontend/Gear4/default
+You have no credit cards,クレジットカードが登録されていません,theme,frontend/Gear4/default
+colour (Manufacturer),カラー,theme,frontend/Gear4/default
+black,ブラック,theme,frontend/Gear4/default
+gold coloured,ゴールド,theme,frontend/Gear4/default
+red,レッド,theme,frontend/Gear4/default
+rose gold coloured,ローズゴールド,theme,frontend/Gear4/default
+silver coloured,シルバー,theme,frontend/Gear4/default
+blue,ブルー,theme,frontend/Gear4/default
+orchid grey,オーキッドグレー,theme,frontend/Gear4/default
+brown,ブラウン,theme,frontend/Gear4/default
+Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored,このフィールド最低8文字以上必要です。先頭と末尾のスペースはカウントされません。,theme,frontend/Gear4/default
+My Bag,お客様のショッピングバッグ,theme,frontend/Gear4/default
+Your bag is empty,お客様のショッピングバッグに商品はありません,theme,frontend/Gear4/default
+What are you looking for?,何をお探ししですか？,theme,frontend/Gear4/default
+View Cart,カートを見る,theme,frontend/Gear4/default
+You have added %1 to cart,”%1 バターシー・ギャラクシーＳ８+ケースをカートに入れました”,theme,frontend/Gear4/default
+Cart Subtotal”,”カートの小計”,theme,frontend/Gear4/default
+There is %1 item in your cart,”カートに商品が%1点あります。”,theme,frontend/Gear4/default
