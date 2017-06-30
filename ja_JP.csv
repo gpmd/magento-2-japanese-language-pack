@@ -12642,3 +12642,11 @@ View Cart,カートを見る,theme,frontend/Gear4/default
 You have added %1 to cart,”%1 バターシー・ギャラクシーＳ８+ケースをカートに入れました”,theme,frontend/Gear4/default
 Cart Subtotal”,”カートの小計”,theme,frontend/Gear4/default
 There is %1 item in your cart,”カートに商品が%1点あります。”,theme,frontend/Gear4/default
+What are you looking for?,何をお探ししですか,theme,frontend/Gear4/default
+You have added,XXXXを,theme,frontend/Gear4/default
+to cart.,カートに入れました,theme,frontend/Gear4/default
+Cart Subtotal,カートの小計,theme,frontend/Gear4/default
+There are,カートに,theme,frontend/Gear4/default
+Items,商品が,theme,frontend/Gear4/default
+in your cart,X点あります。,theme,frontend/Gear4/default
+
