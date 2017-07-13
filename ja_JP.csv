@@ -6623,7 +6623,7 @@ Successful Messages Lifetime,成功したメッセージの存続期間,module,M
 Failed Messages Lifetime,失敗したメッセージの存続期間,module,Magento_MysqlMq
 New Messages Lifetime,新しいメッセージ有効期限,module,Magento_MysqlMq
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","RelicアプリケーションIDが設定されていないため, Cronイベントレポートを続けれません",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
 New Relic Reporting Section,新しいRelic報告セクション,module,Magento_NewRelicReporting
@@ -12612,7 +12612,7 @@ Address Book,アドレス帳,theme,frontend/Magento/luma
 Account Information,アカウント情報,theme,frontend/Magento/luma
 English,Japanese,theme,frontend/Gear4/default
 Contact Us,お問い合わせフォーム,theme,frontend/Gear4/default
-To The Top,トップに戻るトップに戻る,theme,frontend/Gear4/default
+To The Top,トップに戻る,theme,frontend/Gear4/default
 Cart Subtotal,カート合計カート合計,theme,frontend/Gear4/default
 View cart,カートを見るカートを見る,theme,frontend/Gear4/default
 Continue,続ける続ける,theme,frontend/Gear4/default
@@ -12649,4 +12649,3 @@ Cart Subtotal,カートの小計,theme,frontend/Gear4/default
 There are,カートに,theme,frontend/Gear4/default
 Items,商品が,theme,frontend/Gear4/default
 in your cart,X点あります。,theme,frontend/Gear4/default
-
